@@ -1,4 +1,4 @@
-# ⚡Lucas Antunes
+# ⚡ Lucas Antunes
 
 💻 Estudante de Ciência da Computação  
 🚀 Desenvolvedor em aprendizado: Web, Banco de Dados e Jogos
@@ -21,7 +21,11 @@
 
 ## 💻 Tecnologias e Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasProenk&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasProenk&layout=compact&theme=dark&custom_title=Linguagens%20usadas">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,unity&theme=dark" height="35" />
+</a>
 
 ---
 

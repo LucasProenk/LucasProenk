@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/lucas-antunes-40b43334a" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="SEU_LINK_DO_CURRICULO" target="_blank">
+<a href="https://github.com/LucasProenk/LucasProenk/blob/main/Lucas_Antunes_Curricul1.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Currículo">
 </a>
 

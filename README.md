@@ -21,15 +21,24 @@
 
 ## 💻 Tecnologias e Stats
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasProenk&layout=compact&theme=dark&custom_title=Tecnologia&langs_count=10"
-  height="180"
-/>
+<table>
+  <tr>
+    <td valign="top">
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasProenk&layout=compact&theme=dark&langs_count=10&hide_threshold=0&custom_title=Tecnologia" 
+        height="200" 
+      />
+    </td>
+    <td valign="top">
+      <img 
+        src="https://github.com/LucasProenk/LucasProenk/blob/main/gengar.gif?raw=true" 
+        height="200" 
+      />
+    </td>
+  </tr>
+</table>
 
-<img 
-  src="https://github.com/LucasProenk/LucasProenk/blob/main/gengar.gif?raw=true"
-  height="180"
-/>
+<br>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,unity&theme=dark" height="35" />

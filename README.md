@@ -2,15 +2,18 @@
 💻 Estudante de Ciência da Computação  
 🚀 Desenvolvedor em aprendizado: Web, Banco de Dados e Jogos
 
-🔗 **Confira meu portfólio:** [lucasproenk.github.io/portifolio](https://lucasproenk.github.io/portifolio/)
+<br>
+
+<a href="https://lucasproenk.github.io/portifolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_VER_MEU_PORTFÓLIO-FF4B4B?style=for-the-badge&logoColor=white" alt="Portfólio" height="45">
+</a>
+
+<br><br>
 
 ---
 
 ## 🌐 Contato
 
-<a href="https://lucasproenk.github.io/portifolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio">
-</a>
 <a href="https://www.instagram.com/antunesxz__/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>

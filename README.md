@@ -1,12 +1,16 @@
 # ⚡ Lucas Antunes
-
 💻 Estudante de Ciência da Computação  
 🚀 Desenvolvedor em aprendizado: Web, Banco de Dados e Jogos
+
+🔗 **Confira meu portfólio:** [lucasproenk.github.io/portifolio](https://lucasproenk.github.io/portifolio/)
 
 ---
 
 ## 🌐 Contato
 
+<a href="https://lucasproenk.github.io/portifolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio">
+</a>
 <a href="https://www.instagram.com/antunesxz__/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
@@ -37,7 +41,6 @@
     </td>
   </tr>
 </table>
-
 <br>
 
 <a href="https://skillicons.dev">
@@ -47,7 +50,6 @@
 ---
 
 ## 📚 Áreas de Interesse
-
 * 🌐 **Desenvolvimento Web** (Front-end & Back-end)
 * 🗄️ **Banco de Dados** (Oracle SQL, PL/SQL & Modelagem)
 * 🎮 **Desenvolvimento de Jogos** (C# & Shaders)

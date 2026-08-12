@@ -32,12 +32,6 @@
   <tr>
     <td valign="top">
       <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasProenk&layout=compact&theme=dark&langs_count=10&hide_threshold=0&custom_title=Tecnologia" 
-        height="200" 
-      />
-    </td>
-    <td valign="top">
-      <img 
         src="https://github.com/LucasProenk/LucasProenk/blob/main/gengar.gif?raw=true" 
         height="200" 
       />
